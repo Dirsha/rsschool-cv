@@ -46,3 +46,7 @@ Layout of responsive Landing pages, writing the front end of applications in Rea
 #### RS School
 
 JavaScript / Front-end course
+
+### English:
+
+Intermediate level (B1)
